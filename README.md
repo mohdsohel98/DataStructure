@@ -23,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/mohdsohel98/DataStructure/tree/master/0027-remove-element) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/mohdsohel98/DataStructure/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->

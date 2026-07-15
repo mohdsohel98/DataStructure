@@ -5,8 +5,8 @@ public:
         int sumEven = 0;
 
         for (int i = 1; i <= n; i++) {
-            sumOdd += (2 * i - 1); // 1, 3, 5, 7, ...
-            sumEven += (2 * i);    // 2, 4, 6, 8, ...
+            sumOdd += (2 * i - 1); 
+            sumEven += (2 * i);    
         }
 
         return gcd(sumOdd, sumEven);

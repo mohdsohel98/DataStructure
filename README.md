@@ -51,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mohdsohel98/DataStructure/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0868-binary-gap](https://github.com/mohdsohel98/DataStructure/tree/master/0868-binary-gap) |
 <!---LeetCode Topics End-->

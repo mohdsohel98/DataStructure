@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/mohdsohel98/DataStructure/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/mohdsohel98/DataStructure/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/mohdsohel98/DataStructure/tree/master/0049-group-anagrams) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/mohdsohel98/DataStructure/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mohdsohel98/DataStructure/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -35,11 +36,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/mohdsohel98/DataStructure/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mohdsohel98/DataStructure/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mohdsohel98/DataStructure/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/mohdsohel98/DataStructure/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mohdsohel98/DataStructure/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mohdsohel98/DataStructure/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting

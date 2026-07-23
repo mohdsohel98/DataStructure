@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/mohdsohel98/DataStructure/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/mohdsohel98/DataStructure/tree/master/0049-group-anagrams) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mohdsohel98/DataStructure/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/mohdsohel98/DataStructure/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Trie
 |  |
 | ------- |
